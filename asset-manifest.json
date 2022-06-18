@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Pados_ki_dukaan/static/css/main.d2a4c186.css",
+    "main.js": "/Pados_ki_dukaan/static/js/main.28414b88.js",
+    "static/js/787.510f2f79.chunk.js": "/Pados_ki_dukaan/static/js/787.510f2f79.chunk.js",
+    "static/media/fash.jpg": "/Pados_ki_dukaan/static/media/fash.d957baf8c50c99ddce44.jpg",
+    "static/media/store3.jpg": "/Pados_ki_dukaan/static/media/store3.de23012507a6ae548a55.jpg",
+    "static/media/shop1.jpg": "/Pados_ki_dukaan/static/media/shop1.bc95649b32189392626c.jpg",
+    "static/media/shop3.jpg": "/Pados_ki_dukaan/static/media/shop3.bfd3bf955e3a7cf2b086.jpg",
+    "static/media/vegetable.jpg": "/Pados_ki_dukaan/static/media/vegetable.837313fa17b740520c11.jpg",
+    "static/media/grokk.jpg": "/Pados_ki_dukaan/static/media/grokk.ab55ea56485b99bd9155.jpg",
+    "static/media/veg1.jpg": "/Pados_ki_dukaan/static/media/veg1.11fa4aa0c650602a2c21.jpg",
+    "static/media/grocbuss.jpg": "/Pados_ki_dukaan/static/media/grocbuss.81af80a7e29bab1ec27c.jpg",
+    "static/media/veg3.jpg": "/Pados_ki_dukaan/static/media/veg3.78478ca886cb33c5e0e5.jpg",
+    "static/media/clip2.jpg": "/Pados_ki_dukaan/static/media/clip2.f568ef1de67ac8dbb3f7.jpg",
+    "static/media/store2.jpg": "/Pados_ki_dukaan/static/media/store2.e7ec229620ba45f4f376.jpg",
+    "static/media/veg2.jpg": "/Pados_ki_dukaan/static/media/veg2.2bc6b6d116f499a367c4.jpg",
+    "static/media/cloth.jpg": "/Pados_ki_dukaan/static/media/cloth.b5c157ff37a2bde94dd9.jpg",
+    "static/media/shop2.jpg": "/Pados_ki_dukaan/static/media/shop2.cfa36bc554845b1f863f.jpg",
+    "static/media/groceries.jpg": "/Pados_ki_dukaan/static/media/groceries.65ec4307b79efa08eb34.jpg",
+    "static/media/grocery2.jpg": "/Pados_ki_dukaan/static/media/grocery2.ed835cc50421f1cc1e74.jpg",
+    "static/media/store1.jpg": "/Pados_ki_dukaan/static/media/store1.6a5350b6f7f092d63247.jpg",
+    "static/media/grocery.jpg": "/Pados_ki_dukaan/static/media/grocery.c786b499c3445cbf96f9.jpg",
+    "static/media/shop4.jpg": "/Pados_ki_dukaan/static/media/shop4.5b2e834f03ff37eab4ab.jpg",
+    "static/media/border.png": "/Pados_ki_dukaan/static/media/border.5825c963a39f72f39000.png",
+    "static/media/logo.svg": "/Pados_ki_dukaan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Pados_ki_dukaan/index.html",
+    "main.d2a4c186.css.map": "/Pados_ki_dukaan/static/css/main.d2a4c186.css.map",
+    "main.28414b88.js.map": "/Pados_ki_dukaan/static/js/main.28414b88.js.map",
+    "787.510f2f79.chunk.js.map": "/Pados_ki_dukaan/static/js/787.510f2f79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2a4c186.css",
+    "static/js/main.28414b88.js"
+  ]
+}
