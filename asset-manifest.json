@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pados_ki_dukaan/static/css/main.08de7ff3.css",
-    "main.js": "/Pados_ki_dukaan/static/js/main.f33f5e12.js",
+    "main.js": "/Pados_ki_dukaan/static/js/main.a482c9fd.js",
     "static/js/787.510f2f79.chunk.js": "/Pados_ki_dukaan/static/js/787.510f2f79.chunk.js",
     "static/media/fash.jpg": "/Pados_ki_dukaan/static/media/fash.d957baf8c50c99ddce44.jpg",
     "static/media/store3.jpg": "/Pados_ki_dukaan/static/media/store3.de23012507a6ae548a55.jpg",
@@ -26,11 +26,11 @@
     "static/media/logo.svg": "/Pados_ki_dukaan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Pados_ki_dukaan/index.html",
     "main.08de7ff3.css.map": "/Pados_ki_dukaan/static/css/main.08de7ff3.css.map",
-    "main.f33f5e12.js.map": "/Pados_ki_dukaan/static/js/main.f33f5e12.js.map",
+    "main.a482c9fd.js.map": "/Pados_ki_dukaan/static/js/main.a482c9fd.js.map",
     "787.510f2f79.chunk.js.map": "/Pados_ki_dukaan/static/js/787.510f2f79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08de7ff3.css",
-    "static/js/main.f33f5e12.js"
+    "static/js/main.a482c9fd.js"
   ]
 }
